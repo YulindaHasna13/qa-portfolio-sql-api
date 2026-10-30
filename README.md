@@ -40,6 +40,3 @@ Total 14 request dengan 34 test. Setiap request divalidasi untuk status code, is
 1. Import `Dummy JSON API Testing.postman_collection.json` dan `DummyJSON.postman_environment.json` dari folder `api-testing` ke Postman.
 2. Pilih environment DummyJSON.
 3. Jalankan collection lewat Collection Runner.
-
-## Rencana Berikutnya
-- Folder SQL: query validasi data (duplikat, NULL, data yatim/orphan)
